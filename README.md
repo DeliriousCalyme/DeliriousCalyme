@@ -18,14 +18,14 @@ I design and implement ML/DL models to accelerate R&D in biotech: from proteomic
 ## Quick highlights
 - 🔬 Specialization: Proteomics, transcriptomics, genomics analyses  
 - 🤖 Models: ML & Deep Learning for biological signals (classification, ranking, representation learning)  
-- 🧰 Tools: Python, pandas, scikit-learn, PyTorch, RDKit, LightGBM, Scanpy, Docker, Jupyter
+- 🧰 Tools: Python, pandas, scikit-learn, PyTorch, RDKit, Jupyter
 
 ---
 
 ## Featured Projects
 
 ### Proteomics Differential Expression Analysis
-Complete pipeline for proteomics: normalization, statistical testing, and functional enrichment (GO/KEGG).  
+Complete pipeline for proteomics: normalization, statistical testing and functional enrichment (GO/KEGG).  
 Technologies: Python, pandas, scipy, statsmodels, DAVID API, GO enrichment  
 Repository: (link)
 
@@ -33,7 +33,7 @@ Repository: (link)
 
 ### Machine Learning for Drug Target Prediction
 ML model predicting potential targets from molecular and biological features.  
-Technologies: scikit-learn, RDKit, LightGBM, biomedical feature engineering  
+Technologies: scikit-learn, RDKit, biomedical feature engineering  
 Repository: (link)
 
 ---
