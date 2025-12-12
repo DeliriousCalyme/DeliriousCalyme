@@ -5,7 +5,7 @@
 
 Hi I'm Chiara (Data Scientist) 👩‍🔬 | I build Machine Learning & Deep Learning solutions for biology, proteomics and drug discovery.
 
-[![Email](https://img.shields.io/badge/-biotechchiara@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:biotechchiara@gmail.com)](mailto:biotechchiara@gmail.com)
+[![Email](https://img.shields.io/badge/-biotechchiara@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:biotechchiara@gmail.com)]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/biotechchiara)](https://linkedin.com/in/biotechchiara)
 
 ---
