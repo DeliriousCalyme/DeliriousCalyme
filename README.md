@@ -11,44 +11,27 @@ Hi I'm Chiara (Data Scientist) 👩‍🔬 | I build Machine Learning & Deep Lea
 ---
 
 ## About
-I design and implement ML/DL models to accelerate R&D in biotech: from proteomics differential analysis to predictive models for drug-target discovery and single-cell transcriptomics pipelines. I focus on reproducible pipelines, clear visualization and actionable results for research teams.
+*updating*
 
 ---
 
 ## Quick highlights
 - 🔬 Specialization: Proteomics, transcriptomics, genomics analyses  
-- 🤖 Models: ML & Deep Learning for biological signals (classification, ranking, representation learning)  
-- 🧰 Tools: Python, pandas, scikit-learn, PyTorch, RDKit, Jupyter
+- 🤖 Models: ML & Deep Learning for biological signals  
+- 🧰 Tools: Python, pandas, scikit-learn, PyTorch, Jupyter
 
 ---
 
 ## Featured Projects
 
-### Proteomics Differential Expression Analysis
-Complete pipeline for proteomics: normalization, statistical testing and functional enrichment (GO/KEGG).  
-Technologies: Python, pandas, scipy, statsmodels, DAVID API, GO enrichment  
-Repository: (link)
-
----
-
-### Machine Learning for Drug Target Prediction
-ML model predicting potential targets from molecular and biological features.  
-Technologies: scikit-learn, RDKit, biomedical feature engineering  
-Repository: (link)
-
----
-
-### Gene Expression Clustering (Single-Cell RNA-seq)
-Notebook with preprocessing, clustering, PCA/UMAP, differential expression analysis.  
-Technologies: scanpy, numpy, matplotlib, single-cell workflows  
-Repository: (link)
+*updating*
 
 ---
 
 ## Tech Stack & Skills
 - Languages: Python (pandas, numpy), SQL
-- ML: scikit-learn, LightGBM, PyTorch
-- Bioinformatics: scanpy, Biopython, RDKit, DAVID/GO enrichment
+- ML: scikit-learn, Keras, PyTorch
+- Bioinformatics: samtools, Biopython, DAVID/GO enrichment
 - Tools: Docker, Git, Jupyter, CI/CD for reproducible pipelines
 
 ---
