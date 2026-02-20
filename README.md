@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # Chiara Biotech
-[![profile-header](https://img.shields.io/badge/Chiara%20Biotech-Data%20Science%20%26%20AI%20for%20Biotech-blueviolet)](https://www.canva.com/design/DAG7ThHmfQw/XA1zWJh0ycksycM0UvQheA/watch?utm_content=DAG7ThHmfQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdd984220d7)
+[![profile-header](https://img.shields.io/badge/Data%20Science%20%26%20AI%20for%20Biotech-blueviolet)]()
 
 Hi I'm Chiara (Data Scientist) 👩‍🔬 | I build Machine Learning & Deep Learning solutions for biology, proteomics and drug discovery.
 
@@ -18,7 +16,7 @@ Hi I'm Chiara (Data Scientist) 👩‍🔬 | I build Machine Learning & Deep Lea
 ## Quick highlights
 - 🔬 Specialization: Proteomics, transcriptomics, genomics analyses  
 - 🤖 Models: ML & Deep Learning for biological signals  
-- 🧰 Tools: Python, pandas, scikit-learn, PyTorch, Jupyter
+- 🧰 Tools: Python, pandas, scikit-learn, PyTorch, TensorFlow
 
 ---
 
@@ -32,7 +30,7 @@ Hi I'm Chiara (Data Scientist) 👩‍🔬 | I build Machine Learning & Deep Lea
 - Languages: Python (pandas, numpy), SQL
 - ML: scikit-learn, Keras, PyTorch
 - Bioinformatics: samtools, Biopython, DAVID/GO enrichment
-- Tools: Docker, Git, Jupyter, CI/CD for reproducible pipelines
+- Tools: Docker, Git, Jupyter
 
 ---
 
